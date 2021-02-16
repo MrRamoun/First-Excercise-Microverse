@@ -39,7 +39,7 @@ Give a :star: if you like this project!
 Thanks to all  my friends that have reviewed my repo.
 - [Marco Parra](https://github.com/mrigorir)
 - [Francis Ukolo]()
-- [Chikuiba]()
+- [Chike](https://github.com/Chike1990)
 
 ## 📝 License
 
