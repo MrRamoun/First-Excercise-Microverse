@@ -20,9 +20,9 @@
 
 ## Author's Info
 
-- GitHub: [@githubhandle](https://github.com/mrramoun)
-- Twitter: [@twitterhandle](https://twitter.com/ramoun16)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ramoun/)
+- GitHub: [@mrramoun](https://github.com/mrramoun)
+- Twitter: [@ramoun16](https://twitter.com/ramoun16)
+- LinkedIn: [@ramoun](https://www.linkedin.com/in/ramoun/)
 
 ## :smile: Contributing
 
@@ -38,7 +38,7 @@ Give a :star: if you like this project!
 
 Thanks to all  my friends that have reviewed my repo.
 - [Marco Parra](https://github.com/mrigorir)
-- [Francis Ukolo]()
+- [Francis Uloko](https://github.com/francisuloko)
 - [Chike](https://github.com/Chike1990)
 
 ## 📝 License
